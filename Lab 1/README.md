@@ -82,9 +82,11 @@ A royal hall at night. The story has three short scenes: the maid with fruit, th
   - General: to strike the King down with his sword.  
   - King: to survive these threats and keep his rule. 
 
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+
+Here is the storyboard for our interaction design:
+![Storyboard](./7%20Storyboards.png)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -96,6 +98,8 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Actually, the opposite. When acted out, the video gave a stronger sense of drama and storytelling than on paper. On paper, the storyboard showed the key ideas, but in the video the light effects, timing, and character emotions felt more vivid. The flow of scenes and black screen texts also created a stronger atmosphere, making the story clearer and more engaging than just sketches.
+
 
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
 
